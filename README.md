@@ -1,0 +1,2 @@
+# Nushagak2015Variance
+This calculates the variance of the mark recapture (MR) estimate for Chinook in the Nushagak River in 2015 when using only large fish (>660mm) for the MR and then using the proportion of large to non-large fish to calculate the rest. This technique using bootstrapping.  Note this variance may be an underestimate since the estimate of large and non-large fish are not independent.  There are other estimates for the 2015 MR, in which the MR is stratified by sex.  
