@@ -1,6 +1,7 @@
 # notes ----
 
-# author: Sarah.Power@alaska.gov
+# author: Sarah Power
+# email: Sarah.Power@alaska.gov
 # April 29, 2019
 
 # This calculates the variance of the mark recapture (MR) estimate for Chinook in the Nushigak River in 2015
